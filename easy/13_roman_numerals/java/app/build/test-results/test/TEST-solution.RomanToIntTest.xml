@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="solution.RomanToIntTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-27T02:55:53" hostname="FPC" time="0.048">
+  <properties/>
+  <testcase name="[1] III, 3" classname="solution.RomanToIntTest" time="0.039"/>
+  <testcase name="[2] LVIII, 58" classname="solution.RomanToIntTest" time="0.003"/>
+  <testcase name="[3] MCMXCIV, 1994" classname="solution.RomanToIntTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
