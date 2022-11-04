@@ -2,6 +2,17 @@
 My solutions to some of the leetcode challenges I completed. The solutions are mostly written in Go and/or Java.
 
 # Solutions
+
+## Summary
+
+| Difficulty | # |
+| -------    | - |
+|Easy        | 7 |
+|Medium      | 1 |
+|**Total**       | **8** |
+
+## Details
+
 | Number  | Difficulty | Languages | Algorithms & Data Structures | Link to Leetcode |
 | ------- | ---------- | --------- | ---------- | ---------- |
 | 1  | Easy  | [Go](easy/1_two_sum/go) | Map lookup, loop, nested loops | [Two Sum](https://leetcode.com/problems/two-sum)
@@ -11,3 +22,4 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 66  | Easy  | [Go](easy/66_plus_one/go) | Loop, in-place replacement | [Plus One](https://leetcode.com/problems/plus-one)
 | 125  | Easy  | [Go](easy/125_valid_palindrome/go) | Loop, regex | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 | 680  | Easy  | [Go](easy/680_valid_palindrome_2/go) | Loop, multiple functions | [Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii)
+| 704  | Easy  | [Go](easy/704_binary_search/go) | Recursion, upper/lower boundaries | [Binary Search](https://leetcode.com/problems/binary-search)
