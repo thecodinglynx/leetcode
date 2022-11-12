@@ -2,7 +2,7 @@ package leetcode
 
 import "testing"
 
-func TestMaxArea(t *testing.T) {
+func TestRotate(t *testing.T) {
 	var tests = []struct {
 		input []int
 		k     int
