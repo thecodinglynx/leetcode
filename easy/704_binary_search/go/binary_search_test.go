@@ -2,7 +2,7 @@ package binarysearch
 
 import "testing"
 
-func TestIsPalindrome(t *testing.T) {
+func TestBinarySearch(t *testing.T) {
 	var tests = []struct {
 		array  []int
 		target int

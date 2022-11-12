@@ -2,7 +2,7 @@ package leetcode
 
 import "testing"
 
-func TestRomanToInt(t *testing.T) {
+func TestSearchInsert(t *testing.T) {
 	var tests = []struct {
 		input  []int
 		target int
