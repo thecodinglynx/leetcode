@@ -7,9 +7,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 | Difficulty | # |
 | -------    | - |
-|Easy        | 10 |
+|Easy        | 11 |
 |Medium      | 1 |
-|**Total**       | **11** |
+|**Total**       | **12** |
 
 ## Details
 
@@ -26,3 +26,4 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 278  | Easy  | [Go](easy/278_first_bad_version/go) | Recursion, binary search, upper & lower boundaries | [First Bad Version](https://leetcode.com/problems/first-bad-version)
 | 680  | Easy  | [Go](easy/680_valid_palindrome_2/go) | Loop, multiple functions | [Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii)
 | 704  | Easy  | [Go](easy/704_binary_search/go) | Recursion, binary search, upper/lower boundaries | [Binary Search](https://leetcode.com/problems/binary-search)
+| 977  | Easy  | [Go](easy/977_squares_of_a_sorted_array/go) | Two pointers, absolute of a number | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
