@@ -7,9 +7,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 | Difficulty | # |
 | -------    | - |
-|Easy        | 9 |
+|Easy        | 10 |
 |Medium      | 1 |
-|**Total**       | **10** |
+|**Total**       | **11** |
 
 ## Details
 
@@ -20,8 +20,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 11  | Medium  | [Go](medium/11_container_with_most_water/go) & [Java](medium/11_container_with_most_water/java)  | Loop, two pointers, memoization | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
 | 13  | Easy  | [Go](easy/13_roman_to_int/go) & [Java](easy/13_roman_to_int/java) | Map lookup, loop | [Roman To Integer](https://leetcode.com/problems/roman-to-integer)
 | 21  | Easy  | [Go](easy/21_merge_two_sorted_lists/go) | Linked Lists | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
+| 35  | Easy  | [Go](easy/35_search_insert_position/go) | Binary Search, recursion | [Search Insert Position](https://leetcode.com/problems/search-insert-position)
 | 66  | Easy  | [Go](easy/66_plus_one/go) | Loop, in-place replacement | [Plus One](https://leetcode.com/problems/plus-one)
 | 125  | Easy  | [Go](easy/125_valid_palindrome/go) | Loop, regex | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
-| 278  | Easy  | [Go](easy/278_first_bad_version/go) | Recursion, upper/lower boundaries | [First Bad Version](https://leetcode.com/problems/first-bad-version)
+| 278  | Easy  | [Go](easy/278_first_bad_version/go) | Recursion, binary search, upper & lower boundaries | [First Bad Version](https://leetcode.com/problems/first-bad-version)
 | 680  | Easy  | [Go](easy/680_valid_palindrome_2/go) | Loop, multiple functions | [Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii)
-| 704  | Easy  | [Go](easy/704_binary_search/go) | Recursion, upper/lower boundaries | [Binary Search](https://leetcode.com/problems/binary-search)
+| 704  | Easy  | [Go](easy/704_binary_search/go) | Recursion, binary search, upper/lower boundaries | [Binary Search](https://leetcode.com/problems/binary-search)
