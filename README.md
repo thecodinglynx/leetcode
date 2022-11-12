@@ -8,8 +8,8 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | Difficulty | # |
 | -------    | - |
 |Easy        | 11 |
-|Medium      | 1 |
-|**Total**       | **12** |
+|Medium      | 2 |
+|**Total**       | **13** |
 
 ## Details
 
@@ -23,6 +23,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 35  | Easy  | [Go](easy/35_search_insert_position/go) | Binary Search, recursion | [Search Insert Position](https://leetcode.com/problems/search-insert-position)
 | 66  | Easy  | [Go](easy/66_plus_one/go) | Loop, in-place replacement | [Plus One](https://leetcode.com/problems/plus-one)
 | 125  | Easy  | [Go](easy/125_valid_palindrome/go) | Loop, regex | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+| 189  | Medium  | [Go](medium/189_rotate_array/go) | Loop, duplicate array | [Rotate Array](https://leetcode.com/problems/rotate-array/description)
 | 278  | Easy  | [Go](easy/278_first_bad_version/go) | Recursion, binary search, upper & lower boundaries | [First Bad Version](https://leetcode.com/problems/first-bad-version)
 | 680  | Easy  | [Go](easy/680_valid_palindrome_2/go) | Loop, multiple functions | [Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii)
 | 704  | Easy  | [Go](easy/704_binary_search/go) | Recursion, binary search, upper/lower boundaries | [Binary Search](https://leetcode.com/problems/binary-search)
