@@ -7,9 +7,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 | Difficulty | # |
 | -------    | - |
-|Easy        | 15 |
+|Easy        | 16 |
 |Medium      | 3 |
-|**Total**       | **18** |
+|**Total**       | **19** |
 
 ## Details
 
@@ -33,3 +33,4 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 704  | Easy  | [Go](easy/704_binary_search/go) | Recursion, binary search, upper/lower boundaries | [Binary Search](https://leetcode.com/problems/binary-search)
 | 876  | Easy  | [Go](easy/876_middle_of_linked_list/go) | Linked Lists, fast & slow pointer | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 | 977  | Easy  | [Go](easy/977_squares_of_a_sorted_array/go) | Two pointers, absolute of a number | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
+| 1480  | Easy  | [Go](easy/1480_running_sum/go) | Array | [Running Sum](https://leetcode.com/problems/running-sum-of-1d-array)
