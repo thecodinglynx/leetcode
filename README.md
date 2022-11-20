@@ -7,9 +7,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 | Difficulty | # |
 | -------    | - |
-|Easy        | 18 |
+|Easy        | 19 |
 |Medium      | 3 |
-|**Total**       | **21** |
+|**Total**       | **22** |
 
 ## Details
 
@@ -29,6 +29,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 278  | Easy  | [Go](easy/278_first_bad_version/go) | Recursion, binary search, upper & lower boundaries | [First Bad Version](https://leetcode.com/problems/first-bad-version)
 | 283  | Easy  | [Go](easy/283_move_zeroes/go) | Loop, two pointers | [Move Zeroes](https://leetcode.com/problems/move-zeroes)
 | 344  | Easy  | [Go](easy/344_reverse_string/go) & [Java](easy/344_reverse_string/java) | Two pointers, in-place replacement | [Reverse String](https://leetcode.com/problems/reverse-string)
+| 392  | Easy  | [Go](easy/392_subsequence/go) | Two pointers | [Subsequence](https://leetcode.com/problems/is-subsequence)
 | 557  | Easy  | [Go](easy/557_reverse_words/go) | Two pointers | [Reverse Words](https://leetcode.com/problems/reverse-words-in-a-string-iii)
 | 680  | Easy  | [Go](easy/680_valid_palindrome_2/go) | Loop, multiple functions | [Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii)
 | 704  | Easy  | [Go](easy/704_binary_search/go) | Recursion, binary search, upper/lower boundaries | [Binary Search](https://leetcode.com/problems/binary-search)
