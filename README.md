@@ -8,8 +8,8 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | Difficulty | # |
 | -------    | - |
 |Easy        | 19 |
-|Medium      | 3 |
-|**Total**       | **22** |
+|Medium      | 4 |
+|**Total**       | **23** |
 
 ## Details
 
@@ -19,6 +19,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 9  | Easy  | [Go](easy/9_palindrome_number/go) | Loop | [Palindrome Number](https://leetcode.com/problems/palindrome-number)
 | 11  | Medium  | [Go](medium/11_container_with_most_water/go) & [Java](medium/11_container_with_most_water/java)  | Loop, two pointers, memoization | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
 | 13  | Easy  | [Go](easy/13_roman_to_int/go) & [Java](easy/13_roman_to_int/java) | Map lookup, loop | [Roman To Integer](https://leetcode.com/problems/roman-to-integer)
+| 19  | Medium  | [Go](medium/19_remove_from_end_of_list/go) | Linked List | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 | 21  | Easy  | [Go](easy/21_merge_two_sorted_lists/go) | Linked Lists | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 | 35  | Easy  | [Go](easy/35_search_insert_position/go) | Binary Search, recursion | [Search Insert Position](https://leetcode.com/problems/search-insert-position)
 | 66  | Easy  | [Go](easy/66_plus_one/go) | Loop, in-place replacement | [Plus One](https://leetcode.com/problems/plus-one)
