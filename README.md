@@ -8,8 +8,8 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | Difficulty | # |
 | -------    | - |
 |Easy        | 20 |
-|Medium      | 4 |
-|**Total**       | **24** |
+|Medium      | 5 |
+|**Total**       | **25** |
 
 ## Details
 
@@ -24,6 +24,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 35  | Easy  | [Go](easy/35_search_insert_position/go) | Binary Search, recursion | [Search Insert Position](https://leetcode.com/problems/search-insert-position)
 | 66  | Easy  | [Go](easy/66_plus_one/go) | Loop, in-place replacement | [Plus One](https://leetcode.com/problems/plus-one)
 | 125  | Easy  | [Go](easy/125_valid_palindrome/go) | Loop, regex | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+| 142  | Medium  | [Go](medium/142_linked_list_cycle/go) | Linked list, map | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
 | 167  | Medium  | [Go](medium/167_two_sum_2/go) | Two pointers | [Two Sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 | 189  | Medium  | [Go](medium/189_rotate_array/go) | Loop, duplicate array | [Rotate Array](https://leetcode.com/problems/rotate-array)
 | 205  | Easy  | [Go](easy/205_isomorphic_strings/go) | Hashmap, array | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)
