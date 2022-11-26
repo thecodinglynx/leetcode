@@ -23,10 +23,8 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 21  | Easy  | [Go](easy/21_merge_two_sorted_lists/go) | Linked Lists | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 | 35  | Easy  | [Go](easy/35_search_insert_position/go) | Binary Search, recursion | [Search Insert Position](https://leetcode.com/problems/search-insert-position)
 | 66  | Easy  | [Go](easy/66_plus_one/go) | Loop, in-place replacement | [Plus One](https://leetcode.com/problems/plus-one)
-| 98  | Medium  | [Go](medium/98_binary_tree_validate/go) | Binary Search Tree | [Validate Binary Search Tree
-](https://leetcode.com/problems/validate-binary-search-tree)
-| 102  | Medium  | [Go](medium/102_binary_tree_order_traversal/go) | Binary tree, inorder traversal | [Binary Tree Level Order Traversal
-](https://leetcode.com/problems/binary-tree-level-order-traversal)
+| 98  | Medium  | [Go](medium/98_binary_tree_validate/go) | Binary Search Tree | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
+| 102  | Medium  | [Go](medium/102_binary_tree_order_traversal/go) | Binary tree, inorder traversal | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
 | 121  | Easy  | [Go](easy/121_best_time_to_trade_stocks/go) | Loop | [Trading Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 | 125  | Easy  | [Go](easy/125_valid_palindrome/go) | Loop, regex | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
 | 142  | Medium  | [Go](medium/142_linked_list_cycle/go) | Linked list, map | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
@@ -34,8 +32,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 189  | Medium  | [Go](medium/189_rotate_array/go) | Loop, duplicate array | [Rotate Array](https://leetcode.com/problems/rotate-array)
 | 205  | Easy  | [Go](easy/205_isomorphic_strings/go) | Hashmap, array | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)
 | 206  | Easy  | [Go](easy/206_reverse_linked_list/go) | Linked list, recursion | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
-| 235  | Medium  | [Go](medium/235_lowest_common_ancestor/go) | Binary Search Tree | [Lowest Common Ancestor of a Binary Search Tree
-](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+| 235  | Medium  | [Go](medium/235_lowest_common_ancestor/go) | Binary Search Tree | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 | 278  | Easy  | [Go](easy/278_first_bad_version/go) | Recursion, binary search, upper & lower boundaries | [First Bad Version](https://leetcode.com/problems/first-bad-version)
 | 283  | Easy  | [Go](easy/283_move_zeroes/go) | Loop, two pointers | [Move Zeroes](https://leetcode.com/problems/move-zeroes)
 | 344  | Easy  | [Go](easy/344_reverse_string/go) & [Java](easy/344_reverse_string/java) | Two pointers, in-place replacement | [Reverse String](https://leetcode.com/problems/reverse-string)
