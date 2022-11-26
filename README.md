@@ -8,8 +8,8 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | Difficulty | # |
 | -------    | - |
 |Easy        | 23 |
-|Medium      | 7 |
-|**Total**       | **30** |
+|Medium      | 8 |
+|**Total**       | **31** |
 
 ## Details
 
@@ -34,6 +34,8 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 189  | Medium  | [Go](medium/189_rotate_array/go) | Loop, duplicate array | [Rotate Array](https://leetcode.com/problems/rotate-array)
 | 205  | Easy  | [Go](easy/205_isomorphic_strings/go) | Hashmap, array | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)
 | 206  | Easy  | [Go](easy/206_reverse_linked_list/go) | Linked list, recursion | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+| 235  | Medium  | [Go](medium/235_lowest_common_ancestor/go) | Binary Search Tree | [Lowest Common Ancestor of a Binary Search Tree
+](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 | 278  | Easy  | [Go](easy/278_first_bad_version/go) | Recursion, binary search, upper & lower boundaries | [First Bad Version](https://leetcode.com/problems/first-bad-version)
 | 283  | Easy  | [Go](easy/283_move_zeroes/go) | Loop, two pointers | [Move Zeroes](https://leetcode.com/problems/move-zeroes)
 | 344  | Easy  | [Go](easy/344_reverse_string/go) & [Java](easy/344_reverse_string/java) | Two pointers, in-place replacement | [Reverse String](https://leetcode.com/problems/reverse-string)
