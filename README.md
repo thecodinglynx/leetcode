@@ -7,9 +7,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 | Difficulty | # |
 | -------    | - |
-|Easy        | 24 |
+|Easy        | 25 |
 |Medium      | 8 |
-|**Total**       | **32** |
+|**Total**       | **33** |
 
 ## Details
 
@@ -38,6 +38,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 344  | Easy  | [Go](easy/344_reverse_string/go) & [Java](easy/344_reverse_string/java) | Two pointers, in-place replacement | [Reverse String](https://leetcode.com/problems/reverse-string)
 | 392  | Easy  | [Go](easy/392_subsequence/go) | Two pointers | [Subsequence](https://leetcode.com/problems/is-subsequence)
 | 409  | Easy  | [Go](easy/409_longest_palindrome/go) | Map, Array, Modulo | [Subsequence](https://leetcode.com/problems/longest-palindrome)
+| 509  | Easy  | [Go](easy/509_fibonacci_number/go) | Memoiszation, Recursion | [Fbonacci Number](https://leetcode.com/problems/fibonacci-number)
 | 557  | Easy  | [Go](easy/557_reverse_words/go) | Two pointers | [Reverse Words](https://leetcode.com/problems/reverse-words-in-a-string-iii)
 | 589  | Easy  | [Go](easy/589_tree_preorder/go) | N-ary tree | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)
 | 680  | Easy  | [Go](easy/680_valid_palindrome_2/go) | Loop, multiple functions | [Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii)
