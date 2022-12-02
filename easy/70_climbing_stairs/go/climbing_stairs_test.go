@@ -2,7 +2,7 @@ package leetcode
 
 import "testing"
 
-func TestClimbingStairs(t *testing.T) {
+func TestMinCostClimbingStairs(t *testing.T) {
 	var tests = []struct {
 		input int
 		want  int
@@ -10,6 +10,10 @@ func TestClimbingStairs(t *testing.T) {
 		{2, 2},
 		{3, 3},
 		{4, 5},
+		{5, 8},
+		{6, 13},
+		{7, 21},
+		{8, 34},
 	}
 	for _, test := range tests {
 		if got := climbStairs(test.input); got != test.want {
