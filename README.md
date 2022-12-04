@@ -7,9 +7,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 | Difficulty | # |
 | -------    | - |
-|Easy        | 27 |
+|Easy        | 28 |
 |Medium      | 8 |
-|**Total**       | **35** |
+|**Total**       | **36** |
 
 ## Details
 
@@ -47,6 +47,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 724  | Easy  | [Go](easy/724_find_pivot_index/go) | Array | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index)
 | 733  | Easy  | [Go](easy/733_flood_fill/go) | 2D Array, Recursion | [Flood Fill](https://leetcode.com/problems/flood-fill)
 | 746  | Easy  | [Go](easy/746_min_cost_climbing_stairs/go) | Array | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)
+| 844  | Easy  | [Go](easy/844_backspace_string_compare/go) | Array | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)
 | 876  | Easy  | [Go](easy/876_middle_of_linked_list/go) | Linked Lists, fast & slow pointer | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 | 977  | Easy  | [Go](easy/977_squares_of_a_sorted_array/go) | Two pointers, absolute of a number | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
 | 1480  | Easy  | [Go](easy/1480_running_sum/go) | Array | [Running Sum](https://leetcode.com/problems/running-sum-of-1d-array)
