@@ -8,8 +8,8 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | Difficulty | # |
 | -------    | - |
 |Easy        | 29 |
-|Medium      | 9 |
-|**Total**       | **38** |
+|Medium      | 10 |
+|**Total**       | **39** |
 
 ## Details
 
@@ -44,6 +44,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 557  | Easy  | [Go](easy/557_reverse_words/go) | Two pointers | [Reverse Words](https://leetcode.com/problems/reverse-words-in-a-string-iii)
 | 589  | Easy  | [Go](easy/589_tree_preorder/go) | N-ary tree | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)
 | 680  | Easy  | [Go](easy/680_valid_palindrome_2/go) | Loop, multiple functions | [Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii)
+| 692  | Medium  | [Go](medium/692_top_frequent_words/go) | Hashmap, Max Heap | [Top Frequent Words](https://leetcode.com/problems/top-k-frequent-words)
 | 704  | Easy  | [Go](easy/704_binary_search/go) | Recursion, binary search, upper/lower boundaries | [Binary Search](https://leetcode.com/problems/binary-search)
 | 724  | Easy  | [Go](easy/724_find_pivot_index/go) | Array | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index)
 | 733  | Easy  | [Go](easy/733_flood_fill/go) | 2D Array, Recursion | [Flood Fill](https://leetcode.com/problems/flood-fill)
