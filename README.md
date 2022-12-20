@@ -7,9 +7,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 | Difficulty | # |
 | -------    | - |
-|Easy        | 28 |
+|Easy        | 29 |
 |Medium      | 9 |
-|**Total**       | **37** |
+|**Total**       | **38** |
 
 ## Details
 
@@ -51,4 +51,5 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 844  | Easy  | [Go](easy/844_backspace_string_compare/go) | Array | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)
 | 876  | Easy  | [Go](easy/876_middle_of_linked_list/go) | Linked Lists, fast & slow pointer | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 | 977  | Easy  | [Go](easy/977_squares_of_a_sorted_array/go) | Two pointers, absolute of a number | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
+| 1046  | Easy  | [Go](easy/1046_last_stone_weight/go) | Max Heap | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
 | 1480  | Easy  | [Go](easy/1480_running_sum/go) | Array | [Running Sum](https://leetcode.com/problems/running-sum-of-1d-array)
