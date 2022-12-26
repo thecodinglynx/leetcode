@@ -7,9 +7,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 | Difficulty | # |
 | -------    | - |
-|Easy        | 32 |
+|Easy        | 33 |
 |Medium      | 10 |
-|**Total**       | **42** |
+|**Total**       | **43** |
 
 ## Details
 
@@ -23,6 +23,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 19  | Medium  | [Go](medium/19_remove_from_end_of_list/go) | Linked List | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list)
 | 20  | Easy  | [Go](easy/20_valid_parenthesis/go) | Stack | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses)
 | 27  | Easy  | [Go](easy/27_remove_element/go) | Loop, in-place replacement | [Remove Element](https://leetcode.com/problems/remove-element)
+| 28  | Easy  | [Go](easy/28_remove_duplicates_from_sorted_array/go) | Loop | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 | 21  | Easy  | [Go](easy/21_merge_two_sorted_lists/go) | Linked Lists | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 | 35  | Easy  | [Go](easy/35_search_insert_position/go) | Binary Search, recursion | [Search Insert Position](https://leetcode.com/problems/search-insert-position)
 | 66  | Easy  | [Go](easy/66_plus_one/go) | Loop, in-place replacement | [Plus One](https://leetcode.com/problems/plus-one)
