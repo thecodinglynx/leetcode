@@ -7,9 +7,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 | Difficulty | # |
 | -------    | - |
-|Easy        | 33 |
+|Easy        | 34 |
 |Medium      | 10 |
-|**Total**       | **43** |
+|**Total**       | **44** |
 
 ## Details
 
@@ -26,6 +26,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 28  | Easy  | [Go](easy/28_remove_duplicates_from_sorted_array/go) | Loop | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)
 | 21  | Easy  | [Go](easy/21_merge_two_sorted_lists/go) | Linked Lists | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)
 | 35  | Easy  | [Go](easy/35_search_insert_position/go) | Binary Search, recursion | [Search Insert Position](https://leetcode.com/problems/search-insert-position)
+| 58  | Easy  | [Go](easy/58_length_of_last_word/go) | Array | [Length of Last Word](https://leetcode.com/problems/length-of-last-word)
 | 66  | Easy  | [Go](easy/66_plus_one/go) | Loop, in-place replacement | [Plus One](https://leetcode.com/problems/plus-one)
 | 70  | Easy  | [Go](easy/70_climbing_stairs/go) | Recursion, memoization | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
 | 98  | Medium  | [Go](medium/98_binary_tree_validate/go) | Binary Search Tree | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
