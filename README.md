@@ -34,6 +34,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 102  | Medium  | [Go](medium/102_binary_tree_order_traversal/go) | Binary tree, inorder traversal | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
 | 121  | Easy  | [Go](easy/121_best_time_to_trade_stocks/go) | Loop | [Trading Stocks](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 | 125  | Easy  | [Go](easy/125_valid_palindrome/go) | Loop, regex | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome)
+| 136  | Easy  | [Go](easy/136_single_number/go) | Loop, Sorting | [Single Number](https://leetcode.com/problems/single-number)
 | 142  | Medium  | [Go](medium/142_linked_list_cycle/go) | Linked list, map | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
 | 167  | Medium  | [Go](medium/167_two_sum_2/go) | Two pointers | [Two Sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 | 189  | Medium  | [Go](medium/189_rotate_array/go) | Loop, duplicate array | [Rotate Array](https://leetcode.com/problems/rotate-array)
