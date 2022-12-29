@@ -7,9 +7,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 | Difficulty | # |
 | -------    | - |
-|Easy        | 35 |
+|Easy        | 36 |
 |Medium      | 10 |
-|**Total**       | **45** |
+|**Total**       | **46** |
 
 ## Details
 
