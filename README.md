@@ -7,9 +7,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 | Difficulty | # |
 | -------    | - |
-|Easy        | 38 |
+|Easy        | 39 |
 |Medium      | 10 |
-|**Total**       | **48** |
+|**Total**       | **49** |
 
 ## Details
 
@@ -45,6 +45,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 235  | Medium  | [Go](medium/235_lowest_common_ancestor/go) | Binary Search Tree | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 | 278  | Easy  | [Go](easy/278_first_bad_version/go) | Recursion, binary search, upper & lower boundaries | [First Bad Version](https://leetcode.com/problems/first-bad-version)
 | 283  | Easy  | [Go](easy/283_move_zeroes/go) | Loop, two pointers | [Move Zeroes](https://leetcode.com/problems/move-zeroes)
+| 292  | Easy  | [Go](easy/292_nim_game/go) | Modulo | [Nim Game](https://leetcode.com/problems/nim-game)
 | 344  | Easy  | [Go](easy/344_reverse_string/go) & [Java](easy/344_reverse_string/java) | Two pointers, in-place replacement | [Reverse String](https://leetcode.com/problems/reverse-string)
 | 392  | Easy  | [Go](easy/392_subsequence/go) | Two pointers | [Subsequence](https://leetcode.com/problems/is-subsequence)
 | 394  | Medium  | [Go](medium/394_decode_string/go) | Recursion | [Decode String](https://leetcode.com/problems/decode-string)
