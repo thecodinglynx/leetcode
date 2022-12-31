@@ -7,9 +7,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 | Difficulty | # |
 | -------    | - |
-|Easy        | 36 |
+|Easy        | 37 |
 |Medium      | 10 |
-|**Total**       | **46** |
+|**Total**       | **47** |
 
 ## Details
 
@@ -38,6 +38,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 142  | Medium  | [Go](medium/142_linked_list_cycle/go) | Linked list, map | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii)
 | 167  | Medium  | [Go](medium/167_two_sum_2/go) | Two pointers | [Two Sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted)
 | 189  | Medium  | [Go](medium/189_rotate_array/go) | Loop, duplicate array | [Rotate Array](https://leetcode.com/problems/rotate-array)
+| 195  | Easy  | [Go](easy/195_tenth_line/) | Bash | [Tenth Line](https://leetcode.com/problems/tenth-line/)
 | 205  | Easy  | [Go](easy/205_isomorphic_strings/go) | Hashmap, array | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)
 | 206  | Easy  | [Go](easy/206_reverse_linked_list/go) | Linked list, recursion | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 | 235  | Medium  | [Go](medium/235_lowest_common_ancestor/go) | Binary Search Tree | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
