@@ -7,9 +7,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 | Difficulty | # |
 | -------    | - |
-|Easy        | 37 |
+|Easy        | 38 |
 |Medium      | 10 |
-|**Total**       | **47** |
+|**Total**       | **48** |
 
 ## Details
 
@@ -29,6 +29,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 58  | Easy  | [Go](easy/58_length_of_last_word/go) | Array | [Length of Last Word](https://leetcode.com/problems/length-of-last-word)
 | 66  | Easy  | [Go](easy/66_plus_one/go) | Loop, in-place replacement | [Plus One](https://leetcode.com/problems/plus-one)
 | 70  | Easy  | [Go](easy/70_climbing_stairs/go) | Recursion, memoization | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+| 88  | Easy  | [Go](easy/88_merge_sorted_array/go) | Array | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 | 94  | Easy  | [Go](easy/94_tree_inorder/go) | Binary Tree, Recursion | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
 | 98  | Medium  | [Go](medium/98_binary_tree_validate/go) | Binary Search Tree | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree)
 | 102  | Medium  | [Go](medium/102_binary_tree_order_traversal/go) | Binary tree, inorder traversal | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)
