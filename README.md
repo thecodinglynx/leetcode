@@ -7,9 +7,9 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 | Difficulty | # |
 | -------    | - |
-|Easy        | 40 |
+|Easy        | 41 |
 |Medium      | 10 |
-|**Total**       | **50** |
+|**Total**       | **51** |
 
 ## Details
 
@@ -42,6 +42,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 195  | Easy  | [Go](easy/195_tenth_line/) | Bash | [Tenth Line](https://leetcode.com/problems/tenth-line/)
 | 205  | Easy  | [Go](easy/205_isomorphic_strings/go) | Hashmap, array | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings)
 | 206  | Easy  | [Go](easy/206_reverse_linked_list/go) | Linked list, recursion | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
+| 217  | Easy  | [Java](easy/217_duplicate_integer/java) | Map, loop | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 | 235  | Medium  | [Go](medium/235_lowest_common_ancestor/go) | Binary Search Tree | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
 | 278  | Easy  | [Go](easy/278_first_bad_version/go) | Recursion, binary search, upper & lower boundaries | [First Bad Version](https://leetcode.com/problems/first-bad-version)
 | 283  | Easy  | [Go](easy/283_move_zeroes/go) | Loop, two pointers | [Move Zeroes](https://leetcode.com/problems/move-zeroes)
