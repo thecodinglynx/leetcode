@@ -8,8 +8,8 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | Difficulty | # |
 | -------    | - |
 |Easy        | 42 |
-|Medium      | 11 |
-|**Total**       | **53** |
+|Medium      | 12 |
+|**Total**       | **54** |
 
 ## Details
 
@@ -50,6 +50,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 283  | Easy  | [Go](easy/283_move_zeroes/go) | Loop, two pointers | [Move Zeroes](https://leetcode.com/problems/move-zeroes)
 | 292  | Easy  | [Go](easy/292_nim_game/go) | Modulo | [Nim Game](https://leetcode.com/problems/nim-game)
 | 344  | Easy  | [Go](easy/344_reverse_string/go) & [Java](easy/344_reverse_string/java) | Two pointers, in-place replacement | [Reverse String](https://leetcode.com/problems/reverse-string)
+| 347  | Medium  | [Java](medium/347_top_k_frequent_elements/java) | Set, Bucket Sort | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements)
 | 392  | Easy  | [Go](easy/392_subsequence/go) | Two pointers | [Subsequence](https://leetcode.com/problems/is-subsequence)
 | 394  | Medium  | [Go](medium/394_decode_string/go) | Recursion | [Decode String](https://leetcode.com/problems/decode-string)
 | 409  | Easy  | [Go](easy/409_longest_palindrome/go) | Map, Array, Modulo | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome)
