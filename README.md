@@ -8,8 +8,8 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | Difficulty | # |
 | -------    | - |
 |Easy        | 42 |
-|Medium      | 12 |
-|**Total**       | **54** |
+|Medium      | 13 |
+|**Total**       | **55** |
 
 ## Details
 
@@ -57,6 +57,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 509  | Easy  | [Go](easy/509_fibonacci_number/go) | Memoiszation, Recursion | [Fbonacci Number](https://leetcode.com/problems/fibonacci-number)
 | 557  | Easy  | [Go](easy/557_reverse_words/go) | Two pointers | [Reverse Words](https://leetcode.com/problems/reverse-words-in-a-string-iii)
 | 589  | Easy  | [Go](easy/589_tree_preorder/go) | N-ary tree | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal)
+| 659  | Medium  | [Java](medium/659_encode_decode_string/java) | Loop | [Encode and Decode String](https://www.lintcode.com/problem/659/)
 | 680  | Easy  | [Go](easy/680_valid_palindrome_2/go) | Loop, multiple functions | [Valid Palindrome 2](https://leetcode.com/problems/valid-palindrome-ii)
 | 692  | Medium  | [Go](medium/692_top_frequent_words/go) | Hashmap, Max Heap | [Top Frequent Words](https://leetcode.com/problems/top-k-frequent-words)
 | 704  | Easy  | [Go](easy/704_binary_search/go) | Recursion, binary search, upper/lower boundaries | [Binary Search](https://leetcode.com/problems/binary-search)
