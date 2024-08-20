@@ -102,5 +102,8 @@ gradle-app.setting
 
 # End of https://www.toptal.com/developers/gitignore/api/go,java,visualstudiocode,gradle
 
+# Custom
 .vscode
 .idea
+
+README_SSH_KEY.md

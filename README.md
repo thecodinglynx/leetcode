@@ -13,8 +13,8 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 ## Details
 
-| Number  | Difficulty | Languages | Algorithms & Data Structures | Link to Leetcode |
-| ------- | ---------- | --------- | ---------- | ---------- |
+| Number | Difficulty | Languages | Algorithms & Data Structures | Link to Leetcode |
+| ----- | ---------- | --------- | ---------- | ---------- |
 | 1  | Easy  | [Go](easy/1_two_sum/go) | Map lookup, loop, nested loops | [Two Sum](https://leetcode.com/problems/two-sum)
 | 9  | Easy  | [Go](easy/9_palindrome_number/go) | Loop | [Palindrome Number](https://leetcode.com/problems/palindrome-number)
 | 11  | Medium  | [Go](medium/11_container_with_most_water/go) & [Java](medium/11_container_with_most_water/java)  | Loop, two pointers, memoization | [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
@@ -45,7 +45,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 206  | Easy  | [Go](easy/206_reverse_linked_list/go) | Linked list, recursion | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 | 217  | Easy  | [Java](easy/217_duplicate_integer/java) | Map, loop | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 | 235  | Medium  | [Go](medium/235_lowest_common_ancestor/go) | Binary Search Tree | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
-
+| 238  | Medium  | [Java](medium/238_product_array_except_self/java)                                               | Array | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/submissions/)
 | 242  | Easy  | [Java](easy/242_valid_anagram/java) | Chars, loop | [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 | 278  | Easy  | [Go](easy/278_first_bad_version/go) | Recursion, binary search, upper & lower boundaries | [First Bad Version](https://leetcode.com/problems/first-bad-version)
 | 283  | Easy  | [Go](easy/283_move_zeroes/go) | Loop, two pointers | [Move Zeroes](https://leetcode.com/problems/move-zeroes)
@@ -68,6 +68,6 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 844  | Easy  | [Go](easy/844_backspace_string_compare/go) | Array | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)
 | 876  | Easy  | [Go](easy/876_middle_of_linked_list/go) | Linked Lists, fast & slow pointer | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list)
 | 977  | Easy  | [Go](easy/977_squares_of_a_sorted_array/go) | Two pointers, absolute of a number | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)
-| 1046  | Easy  | [Go](easy/1046_last_stone_weight/go) | Max Heap | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
-| 1295  | Easy  | [Go](easy/1295_numbers_with_even_digits/go) | Array, Modulo | [Even Digits](https://leetcode.com/problems/running-sum-of-1d-array)
-| 1480  | Easy  | [Go](easy/1480_running_sum/go) | Array | [Running Sum](https://leetcode.com/problems/running-sum-of-1d-array)
+| 1046 | Easy  | [Go](easy/1046_last_stone_weight/go) | Max Heap | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight)
+| 1295 | Easy  | [Go](easy/1295_numbers_with_even_digits/go) | Array, Modulo | [Even Digits](https://leetcode.com/problems/running-sum-of-1d-array)
+| 1480 | Easy  | [Go](easy/1480_running_sum/go) | Array | [Running Sum](https://leetcode.com/problems/running-sum-of-1d-array)
