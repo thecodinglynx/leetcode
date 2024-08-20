@@ -45,6 +45,7 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 | 206  | Easy  | [Go](easy/206_reverse_linked_list/go) | Linked list, recursion | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list)
 | 217  | Easy  | [Java](easy/217_duplicate_integer/java) | Map, loop | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 | 235  | Medium  | [Go](medium/235_lowest_common_ancestor/go) | Binary Search Tree | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+
 | 242  | Easy  | [Java](easy/242_valid_anagram/java) | Chars, loop | [Valid Anagram](https://leetcode.com/problems/valid-anagram)
 | 278  | Easy  | [Go](easy/278_first_bad_version/go) | Recursion, binary search, upper & lower boundaries | [First Bad Version](https://leetcode.com/problems/first-bad-version)
 | 283  | Easy  | [Go](easy/283_move_zeroes/go) | Loop, two pointers | [Move Zeroes](https://leetcode.com/problems/move-zeroes)
