@@ -5,11 +5,11 @@ My solutions to some of the leetcode challenges I completed. The solutions are m
 
 ## Summary
 
-| Difficulty | # |
-| -------    | - |
-|Easy        | 42 |
-|Medium      | 13 |
-|**Total**       | **55** |
+| Difficulty | #      |
+| -------    |--------|
+|Easy        | 42     |
+|Medium      | 14     |
+|**Total**       | **56** |
 
 ## Details
 
